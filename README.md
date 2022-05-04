@@ -6,12 +6,15 @@ image of slack file bot output
 
 ![alt text](./img/slack-file-bot.png "Slack File Bot")  
 
+---
 
 ## Email Validation Tool
 
 image of slack file bot output // provide a domain and the app will return if its a valid domain or not
 
 ![alt text](./img/email-validator.png "Email Validation Tool")  
+
+---
 
 ## AWS lambda func
 
@@ -67,3 +70,25 @@ invoke the lambda function
 ```bash
 aws lambda invoke --function-name test-lambda-go-func --cli-binary-format raw-in-base64-out --payload '{"What is your name?": "Jim", "How old are you?": 33}' output.txt
 ```
+
+---
+
+## Go Fiber CRM
+
+Console Output:
+
+![go run main.go](./img/go-fiber-crm_run.png "Go Fiber CRM - Run")
+
+Database View:
+
+![select * from leads;](./img/go-fiber-crm_db.png "Go Fiber CRM - db")
+
+## Installation
+
+`NOTE: May need to install sqlite`
+
+```bash
+sudo apt install sqlite
+```
+
+---

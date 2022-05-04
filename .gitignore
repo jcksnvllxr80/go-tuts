@@ -1,3 +1,5 @@
 slack-file-bot/secrets/envvars.go
 slack-file-bot/slack-file-bot
-sql/db/sqlite3
+go-fiber-crm/sqlite/db
+go-fiber-crm/main
+go-fiber-crm/leads.db
