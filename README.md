@@ -92,3 +92,9 @@ sudo apt install sqlite
 ```
 
 ---
+
+## Go Fiber MongoDB HRMS (Human Resource Management System)
+
+Console Output:
+
+![go run main.go](./img/fiber-mongo-hrms.png)
