@@ -98,3 +98,18 @@ sudo apt install sqlite
 Console Output:
 
 ![go run main.go](./img/fiber-mongo-hrms.png)
+
+---
+
+## nlp-bot (natural language processing)
+
+ABOUT: This app uses Slack, wit.ai, wolfram, and go to create a slack bot that takes a general request and returns an answer.
+
+### Block Diagram:
+
+![block diagram](./img/nlp-block-diagram.png)
+
+
+### In Action:
+
+![block diagram](./img/wolfram-bot.png)
