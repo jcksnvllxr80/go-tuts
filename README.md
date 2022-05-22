@@ -113,3 +113,19 @@ ABOUT: This app uses Slack, wit.ai, wolfram, and go to create a slack bot that t
 ### In Action:
 
 ![block diagram](./img/wolfram-bot.png)
+
+---
+
+## Discord Ping Bot
+
+ABOUT: From a discord ping bot [series](https://www.youtube.com/playlist?list=PL5dTjWUk_cPZwsRo2ZPtgp3KejezGQeae) with Akhil. 
+
+### In Action
+
+![discord ping bot](./img/discord-ping-bot.png)
+
+NOTE:
+discord link for authorizing bots: 
+> `https://discord.com/oauth2/authorize?client_id=<APPLICATION_ID>&scope=bot`
+
+where, APPLICATION_ID is found in your [discord developer portal](https://discord.com/developers/applications)

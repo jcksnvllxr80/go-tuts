@@ -4,3 +4,5 @@ go-fiber-crm/sqlite/db
 go-fiber-crm/leads.db
 **/main
 **/.env
+discord-ping-bot/config.json
+**/nohup.out
