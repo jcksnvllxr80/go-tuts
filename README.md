@@ -122,7 +122,8 @@ ABOUT: From a discord ping bot [series](https://www.youtube.com/playlist?list=PL
 
 ### In Action
 
-![discord ping bot](./img/discord-ping-bot.png)
+![discord ping bot header](./img/discord-ping-bot-header.png)
+![discord ping bot body](./img/discord-ping-bot-body.png)
 
 NOTE:
 discord link for authorizing bots: 
